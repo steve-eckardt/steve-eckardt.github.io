@@ -1,0 +1,1 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ThreeJS Sphere</title><script defer="defer" src="bundle.05a7815c796fdfdfb22a.js"></script><link href="main.css" rel="stylesheet"></head><body><canvas class="webgl"></canvas></body></html>
